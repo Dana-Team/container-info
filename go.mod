@@ -1,0 +1,1 @@
+module "github.com/Dana-Team/container-info"
